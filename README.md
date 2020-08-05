@@ -2,8 +2,8 @@ This is a website containing an About Me with links to my work and info, and a p
 
 Portfolio contains:  
 -Project 1, To Make or To Go  
--Weather Dashboard
--Day Planner
+-Weather Dashboard  
+-Day Planner  
 -Code Quiz
 
 *Contact page currently not utilized.
