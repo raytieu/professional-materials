@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(219, 233, 219);
+}
+
+.about-me {
+  padding: 10px;
+  margin: 10px;
+}
+
+.image {
+  width: 300px;
+  height: 300px;
+}
+
+.portfolio-title {
+  text-align: center;
+  padding: 20px;
+  /* border: 20px solid lightblue; */
+  margin-bottom: 0px;
+  background-color: rgb(72, 145, 72);
+  color: white;
+  margin-top: 40px;
+}
+
+.card-body {
+  border-top: 2px solid black;
+  text-align: center;
+  align-items: center;
+}
+
+/* .album {
+  background-color: rgb(185, 211, 185);
+} */
+
+.card {
+  width: auto;
+  border: 5px solid rgba(0,0,0,.125)
+}
+
+.card-text {
+  font-weight: bold;
+}
