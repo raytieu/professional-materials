@@ -15,7 +15,6 @@ body {
 .portfolio-title {
   text-align: center;
   padding: 20px;
-  /* border: 20px solid lightblue; */
   margin-bottom: 0px;
   background-color: rgb(72, 145, 72);
   color: white;
@@ -27,10 +26,6 @@ body {
   text-align: center;
   align-items: center;
 }
-
-/* .album {
-  background-color: rgb(185, 211, 185);
-} */
 
 .card {
   width: auto;
